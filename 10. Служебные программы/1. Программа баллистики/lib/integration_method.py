@@ -59,7 +59,7 @@ def calculate():
     flg_guide = False
 
     while True:
-        # TODO добавить четко точку схода с направляющей
+        # TODO добавить  четко точку схода с направляющей
         print('%-5.1f %-8.3f %-7.2f %-8.2f %-7.2f %-7.2f' % (t, parameters[0], math.degrees(parameters[1]),
                                                              parameters[2], parameters[3], parameters[4]))
 
