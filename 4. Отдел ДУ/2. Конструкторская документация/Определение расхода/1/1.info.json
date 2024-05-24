@@ -1,0 +1,55 @@
+{
+    "version": 0,
+    "model_name": "Сборка системы подачи.SLDASM",
+    "project_name": "Проект(1)",
+    "config_name": "Default",
+    "project_path": "D:\\Yandex\\YandexDisk\\Ro_Tech\\4. Отдел ДУ\\2. Конструкторская документация\\Определение расхода\\1\\1.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 4533,
+        "cells_fluid": 4533,
+        "cells_solid": 11389,
+        "cells_fluid_containing_solid": 3559
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "23:08:54+0300",
+        "prepare_geometry_total_time": 0,
+        "cpu_time_solver_total": 11,
+        "iteration": 160,
+        "travel": 3.99999999999999,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "23:09:04+0300",
+        "cpu_time_per_last_iter": 1,
+        "cpu_time_left": 0,
+        "iterations_per_travel": 41
+    },
+    "goals": [],
+    "settings": {
+        "default_fluids": [
+            "Water"
+        ],
+        "analysis_type": "internal",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2023  x64 / 6071 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2023 SP4.0",
+        "computer_name": "DESKTOP-28OKAI5",
+        "user_name": "matvey",
+        "os": "Windows 10 (Version 10.0.19045)",
+        "cpu": "12th Gen Intel(R) Core(TM) i5-12450H",
+        "number_of_cores": 12,
+        "memory_avail": 7194,
+        "memory_total": 16088
+    }
+}
