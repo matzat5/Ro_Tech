@@ -1,0 +1,251 @@
+Temp: 15.50 *C
+Temp: 16.25 *C
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 15.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.25 *C
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Temp: 16.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 17.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 16.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 23.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 51.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 75.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 90.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 102.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 112.25 *C
+Temp: 120.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 126.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 131.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 135.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 135.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 132.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 128.50 *C
+Temp: 122.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 117.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 113.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 109.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 106.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 104.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 102.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 100.75 *C
+Temp: 100.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 99.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 98.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 97.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 97.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 97.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+18:38:30.072 -> Temp: 96.25 *C
+18:38:30.072 -> Flow rate: 0.00 L/min  Total liters: 0
+18:38:31.048 -> Temp: 95.00 *C
+18:38:32.075 -> Temp: 95.25 *C
+18:38:32.075 -> Flow rate: 0.00 L/min  Total liters: 0
+18:38:33.054 -> Temp: 95.00 *C
+18:38:33.054 -> Flow rate: 0.00 L/min  Total liters: 0
+Temp: 95.25 *C
+Temp: 95.50 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.00 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 96.50 *C
+Temp: 96.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 97.25 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 97.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 97.25 *C
+Temp: 97.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 97.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 97.75 *C
+Flow rate: 0.00 L/min  Total liters: 0
+Temp: 98.00 *C
